@@ -1,4 +1,4 @@
-# Computer-Vision
+# Computer-Vision Projects
 Face Detection, Object Detection and Image Creation with GANs
 
 ## 1. [I'm an inline-style link](https://github.com/sidharththapar)
